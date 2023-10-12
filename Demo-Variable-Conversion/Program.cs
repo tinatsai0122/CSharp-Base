@@ -6,9 +6,9 @@
         {
             Console.WriteLine("Bonjour, veuillez entrer un nombre: ");
             string? reponse = Console.ReadLine();
-            Console.WriteLine($"Vous avez repondu: {reponse}");
-            int nombre = int.Parse( reponse );
-            Console.WriteLine($"Votre nombre est: {nombre}");
+            //Console.WriteLine($"Vous avez repondu: {reponse}");
+            //int nombre = int.Parse( reponse );
+            //Console.WriteLine($"Votre nombre est: {nombre}");
 
             int nombre;
             bool isConverted = int.TryParse( reponse, out nombre);

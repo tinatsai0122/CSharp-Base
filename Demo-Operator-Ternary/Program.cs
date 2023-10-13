@@ -15,8 +15,12 @@
                 //{
                 //    Console.WriteLine($"Waouw! Il vous rest {year} annee!");
                 //}
-                string s = (year > 1) ? "s" : "";
-                Console.WriteLine($"Waouw! Il vous reste {year } annee{s}");
+                ////Avec Ternary and affectation
+               // string s = (year > 1) ? "s" : "";
+                //Console.WriteLine($"Waouw! Il vous reste {year } annee{s}");
+            
+                //Avec ternary dans l'execution
+                Console.WriteLine($"Waouw! Il vous reste {year} annee{((year>1) ? "s" : "")}!");
             }
         }
     }

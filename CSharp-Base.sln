@@ -39,15 +39,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-Loops-04", "Exo-Loops-0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-Loops-05", "Exo-Loops-05\Exo-Loops-05.csproj", "{E306DA49-7EE9-4BD8-8BB0-E73F3B737E78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Loops-foreach", "Demo-Loops-foreach\Demo-Loops-foreach.csproj", "{33D025F9-9708-44C8-9CCF-1990013F59C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Loops-foreach", "Demo-Loops-foreach\Demo-Loops-foreach.csproj", "{33D025F9-9708-44C8-9CCF-1990013F59C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Array-MultiDimension", "Demo-Array-MultiDimension\Demo-Array-MultiDimension.csproj", "{3FD8FCC1-F2DE-4BD4-89E3-C929E7BAB44E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Array-MultiDimension", "Demo-Array-MultiDimension\Demo-Array-MultiDimension.csproj", "{3FD8FCC1-F2DE-4BD4-89E3-C929E7BAB44E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Collections-Dictionary", "Demo-Collections-Dictionary\Demo-Collections-Dictionary.csproj", "{987C1037-88C6-4A64-B28E-8CAA510C4B47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo-Collections-Dictionary", "Demo-Collections-Dictionary\Demo-Collections-Dictionary.csproj", "{987C1037-88C6-4A64-B28E-8CAA510C4B47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-Collection-01", "Exo-Collection-01\Exo-Collection-01.csproj", "{A25842B3-1EE7-40DA-BC19-496A4BD898A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-Collection-01", "Exo-Collection-01\Exo-Collection-01.csproj", "{A25842B3-1EE7-40DA-BC19-496A4BD898A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-Collection-02", "Exo-Collection-02\Exo-Collection-02.csproj", "{9455C4A7-AD26-46B0-BA74-8DC8AA6BFB72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-Collection-02", "Exo-Collection-02\Exo-Collection-02.csproj", "{9455C4A7-AD26-46B0-BA74-8DC8AA6BFB72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-Collection-03", "Exo-Collection-03\Exo-Collection-03.csproj", "{00AFDB9C-8DAB-4718-8C63-7431ED19B8F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-Collection-Dictionary-04", "Exo-Collection-Dictionary-04\Exo-Collection-Dictionary-04.csproj", "{AB5CB471-A139-49F8-8E72-562AD048C696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo-Struc-Heure", "Demo-Struc-Heure\Demo-Struc-Heure.csproj", "{6A052829-74D2-40BB-BF09-2DF97B4B934D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -139,6 +145,18 @@ Global
 		{9455C4A7-AD26-46B0-BA74-8DC8AA6BFB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9455C4A7-AD26-46B0-BA74-8DC8AA6BFB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9455C4A7-AD26-46B0-BA74-8DC8AA6BFB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AFDB9C-8DAB-4718-8C63-7431ED19B8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AFDB9C-8DAB-4718-8C63-7431ED19B8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AFDB9C-8DAB-4718-8C63-7431ED19B8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AFDB9C-8DAB-4718-8C63-7431ED19B8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5CB471-A139-49F8-8E72-562AD048C696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5CB471-A139-49F8-8E72-562AD048C696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5CB471-A139-49F8-8E72-562AD048C696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5CB471-A139-49F8-8E72-562AD048C696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A052829-74D2-40BB-BF09-2DF97B4B934D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A052829-74D2-40BB-BF09-2DF97B4B934D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A052829-74D2-40BB-BF09-2DF97B4B934D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A052829-74D2-40BB-BF09-2DF97B4B934D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -165,6 +183,9 @@ Global
 		{987C1037-88C6-4A64-B28E-8CAA510C4B47} = {25BB5BED-27B9-44D6-A16C-770976E50796}
 		{A25842B3-1EE7-40DA-BC19-496A4BD898A3} = {7EFBBB64-1BB0-4CF3-9E40-985293CB34D8}
 		{9455C4A7-AD26-46B0-BA74-8DC8AA6BFB72} = {7EFBBB64-1BB0-4CF3-9E40-985293CB34D8}
+		{00AFDB9C-8DAB-4718-8C63-7431ED19B8F2} = {7EFBBB64-1BB0-4CF3-9E40-985293CB34D8}
+		{AB5CB471-A139-49F8-8E72-562AD048C696} = {7EFBBB64-1BB0-4CF3-9E40-985293CB34D8}
+		{6A052829-74D2-40BB-BF09-2DF97B4B934D} = {25BB5BED-27B9-44D6-A16C-770976E50796}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BADA62C2-3E72-4B7B-8E46-79F71181B270}
